@@ -19,7 +19,7 @@ class Demo
     /**
      * Construct function
      */
-    function __construct()
+    public function __construct()
     {
     }
 }
